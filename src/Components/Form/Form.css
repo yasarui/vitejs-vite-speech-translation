@@ -1,0 +1,17 @@
+label {
+  font-size: 14px;
+  color: #333;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin-bottom: 15px;
+  display: block;
+}
+.form-wrapper {
+  margin-bottom: 30px;
+}
+.submit-btn {
+  margin-right: 20px;
+}
+.download-btn {
+  margin-right: 20px;
+}

@@ -1,0 +1,12 @@
+.header-section {
+  margin: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 60px;
+  background-color: #d61336;
+}
+.logo {
+  height: 60px;
+}
